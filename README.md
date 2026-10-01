@@ -2,13 +2,13 @@
 
 **Information Technology Student | Aspiring Quality Assurance Engineer**
 
-I am an Information Technology student interested in software quality, testing, and programming. I enjoy learning how software works, identifying problems, and improving the reliability of applications.
+I am an Information Technology student in Telkom University Surabaya interested in software quality, testing, and programming. I enjoy learning how software works, identifying problems, and improving the reliability of applications.
 
 ### About Me
 
 * 🎓 Information Technology Student
 * 🔍 Focused on Quality Assurance & Software Testing
-* 💻 Learning C++ and Python
+* 💻 Currently at Second year at University and Learning C++ and Golang
 * 🧪 Interested in testing, debugging, and documentation
 * 📚 Continuously developing my technical skills
 
