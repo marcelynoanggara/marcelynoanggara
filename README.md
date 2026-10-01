@@ -15,7 +15,7 @@ I am an Information Technology student interested in software quality, testing, 
 ### Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,git,golang,github,vscode" />
 </p>
 
 ### Areas of Interest
@@ -33,7 +33,3 @@ I am an Information Technology student interested in software quality, testing, 
   <img src="https://github-readme-stats.vercel.app/api?username=marcelynoanggara&show_icons=true&hide_border=true&theme=transparent" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username==marcelynoanggara&layout=compact&hide_border=true&theme=transparent" height="160"/>
 </p>
-
-### Let's Connect
-
-[GitHub](https://github.com/=marcelynoanggara)
