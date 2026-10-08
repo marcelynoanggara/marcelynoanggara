@@ -1,8 +1,8 @@
 # Hi, I'm Marcel 👋
 
-**Marcelyno Anggara — Information Technology Student | Aspiring QA Engineer**
+**Marcelyno Anggara — Information Technology Student**
 
-Welcome to my digital home. I'm an Information Technology student at Telkom University Surabaya (second year) who enjoys building web projects, strengthening programming foundations, and turning ideas into working software — with a growing focus on software quality & testing.
+Welcome to my digital home. I'm an Information Technology student at Telkom University Surabaya (second year) who enjoys building web projects, strengthening programming foundations, and turning ideas into working software with a growing focus on software quality & testing.
 
 🌐 **My portfolio:** https://marcelynoanggara.github.io/portofolio/
 
