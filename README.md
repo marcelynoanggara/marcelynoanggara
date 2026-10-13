@@ -1,6 +1,6 @@
 # Hi, I'm Marcel 👋
 
-**Marcelyno Anggara Information Technology Student**
+**Hekven Marcelyno A. - Information Technology Student**
 
 Welcome to my digital home. I'm an Information Technology student at Telkom University Surabaya (second year) who enjoys building web projects, strengthening programming foundations, and turning ideas into working software with a growing focus on software quality & testing.
 
@@ -42,7 +42,7 @@ Welcome to my digital home. I'm an Information Technology student at Telkom Univ
   Live: https://marcelynoanggara.github.io/portofolio/
 * 📄 [**CV Builder**](https://github.com/marcelynoanggara/cv-builder) , Interactive resume maker with live preview, switchable templates and fonts, PDF export, and automatic update prompts on new releases.
   Live: https://marcelynoanggara.github.io/cv-builder/
-* 🇯🇵 [**NihonGo Master - Belajar Bahasa Jepang**](https://github.com/marcelynoanggara/belajar-bahasa-jepang) , Japanese learning web app from : 30 modules, kana trainer with handwriting practice & auto-grading, kanji explorer, configurable quizzes, and progress saved locally.
+* 🇯🇵 [**NihonGo Master - Belajar Bahasa Jepang**](https://github.com/marcelynoanggara/belajar-bahasa-jepang) , Japanese learning web app from zero : 30 modules, kana trainer with handwriting practice & auto-grading, kanji explorer, configurable quizzes, and progress saved locally.
   Live: https://marcelynoanggara.github.io/belajar-bahasa-jepang/
 * 📊 [**AI Data Analyze**](https://github.com/marcelynoanggara/data-analyze) , CSV data analysis web app with AI-assisted insight summaries and visualizations for faster decisions.
 * 🔳 [**QR Generator**](https://github.com/marcelynoanggara/qr-generator) , Simple web-based QR code generator; create QR codes instantly, right from the browser.
