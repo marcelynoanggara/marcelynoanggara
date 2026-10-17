@@ -51,4 +51,4 @@ I build web projects, drill programming fundamentals, and like turning an idea i
 ### Connect
 
 - Portfolio: https://marchanggara.my.id/
-- Instagram: [@marchanggara](https://www.instagram.com/marchanggara)
+- Instagram: [@marchlanggara](https://www.instagram.com/marchlanggara)
