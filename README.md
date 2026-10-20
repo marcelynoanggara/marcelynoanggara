@@ -15,7 +15,7 @@ I build web projects, drill programming fundamentals, and like turning an idea i
 ### About me
 
 - Second-year IT undergraduate at **Telkom University Surabaya**
-- Building with **React + TypeScript**; learning **C++ and Golang** in coursework
+- learning **C++ and Golang** in coursework
 - Into **QA**: test case design, bug reporting, and documentation
 - Foundations before frameworks: data structures and problem-solving first
 - Open to collaboration and student projects
@@ -23,18 +23,18 @@ I build web projects, drill programming fundamentals, and like turning an idea i
 ### Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,react,python,cpp,go,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ### Featured projects
 
 | Project | Links |
 |---|---|
-| **Personal Portfolio** — one page for my projects, skills, and how I learn | [Live](https://marchanggara.my.id/) · [Code](https://github.com/marcelynoanggara/portofolio) |
-| **CV Builder** — resume maker with live A4 preview, templates, and PDF export | [Live](https://cv.marchanggara.my.id/) · [Code](https://github.com/marcelynoanggara/cv-builder) |
-| **NihonGo Master** — learn Japanese from zero: 30 modules, kana handwriting practice with auto-grading, quizzes | [Live](https://nihongo.marchanggara.my.id/) · [Code](https://github.com/marcelynoanggara/belajar-bahasa-jepang) |
-| **QR Generator** — QR codes in one click, runs entirely in the browser | [Live](https://qr.marchanggara.my.id/) · [Code](https://github.com/marcelynoanggara/qr-generator) |
-| **AI Data Analyze** — upload a CSV, get AI summaries and charts | [Live](https://data-analyze-doy73sy5q-mangga2.vercel.app/) · [Code](https://github.com/marcelynoanggara/data-analyze) |
+| **Personal Portfolio** — one page for my projects, skills, and how I learn | [Live](https://marchanggara.my.id/)|
+| **CV Builder** — resume maker with live A4 preview, templates, and PDF export | [Live](https://cv.marchanggara.my.id/)|
+| **NihonGo Master** — learn Japanese from zero: 30 modules, kana handwriting practice with auto-grading, quizzes | [Live](https://nihongo.marchanggara.my.id/)|
+| **QR Generator** — QR codes in one click, runs entirely in the browser | [Live](https://qr.marchanggara.my.id/)|
+| **AI Data Analyze** — upload a CSV, get AI summaries and charts | [Live](https://data-analyze-doy73sy5q-mangga2.vercel.app/)|
 
 ### Coursework
 
